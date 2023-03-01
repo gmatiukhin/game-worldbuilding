@@ -1,0 +1,1 @@
+See [Piezoelectricity](https://en.wikipedia.org/wiki/Piezoelectricity) and [Triboluminescence](https://en.wikipedia.org/wiki/Triboluminescence) for inspiration
